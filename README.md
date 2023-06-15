@@ -1,5 +1,5 @@
 # SuiRAT<p align="center">
-<img src="https://github.com/hax4us/haxRat/Logo/SuiRAT.png" height="60"><br>
+<img src="https://github.com/alewana/SuiRAT/SuiRAT.png" height="60"><br>
 SuiRAT is a client/server application developed in Java Android for the client side and the Server is in Python
 </p>
 
